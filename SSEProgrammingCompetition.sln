@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSEProgrammingCompetition",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostBangForBuck", "MostBangForBuck\MostBangForBuck.csproj", "{CCFADA00-0E4A-4C3C-BBA2-42818043A2F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossword", "Crossword\Crossword.csproj", "{5468272D-9E72-4685-B528-266B83AA8240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaParty", "PizzaParty\PizzaParty.csproj", "{0F03A684-658D-4FBD-AA1E-6CD62D3BE927}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{CCFADA00-0E4A-4C3C-BBA2-42818043A2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCFADA00-0E4A-4C3C-BBA2-42818043A2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCFADA00-0E4A-4C3C-BBA2-42818043A2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5468272D-9E72-4685-B528-266B83AA8240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5468272D-9E72-4685-B528-266B83AA8240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5468272D-9E72-4685-B528-266B83AA8240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5468272D-9E72-4685-B528-266B83AA8240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F03A684-658D-4FBD-AA1E-6CD62D3BE927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F03A684-658D-4FBD-AA1E-6CD62D3BE927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F03A684-658D-4FBD-AA1E-6CD62D3BE927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F03A684-658D-4FBD-AA1E-6CD62D3BE927}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
